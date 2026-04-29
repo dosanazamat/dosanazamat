@@ -12,10 +12,6 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,git" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
