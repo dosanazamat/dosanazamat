@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Azamat
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://usagif.com/wp-content/uploads/2022/fzk5d/naruto-gif-wallpaper-1920-1080px-4.gif)" width="400">
 </p>
 
 ## 🚀 About Me
@@ -20,7 +20,7 @@
 
 ## 📫 Contact
 
-* Telegram: @your_username
+* Telegram: @azamatdosan
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300">
